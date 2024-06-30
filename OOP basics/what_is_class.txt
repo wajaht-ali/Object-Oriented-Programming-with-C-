@@ -1,0 +1,12 @@
+*) Class in OOP:
+-  A class in object-oriented programming is like a blue-print or a template for the objects.
+-  Basically, a class is a user-defined data type which we can use in our program as a template for creating
+objects.
+-  A class is a collection of data members and member functions which are used to manipulate the data 
+members.
+
+*) Object in OOP:
+-  An object is referred as the instance of the class.
+-  We can create multiple objects from a particular class, that have access to class data and methods.
+
+*) The Object-oriented is not limited up to creating classes and objects from those classes, it encompasses a number of advanced features which will be discussed and implemented later. 

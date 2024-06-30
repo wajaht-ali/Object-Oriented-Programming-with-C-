@@ -1,1 +1,12 @@
-What is OOP?
+*) What is OOP?
+- OOP stands for Object-Oriented Programming. It is a programming paradigm which is based on the "objects"
+  and classes.
+
+*) OOP vs Procedural programming?
+-  Procedural programming paradigm mainly focuses on writing the functions which process the given data in the form of parameters and arguments, while OOP focuses on objects and classes.
+
+
+*) Why OOP?
+-  OOP is relatively faster programming paradigm.
+-  Maintains the DRY (Don't Repeat Yourself) principle.
+-  Make the code reuseable, helps in maintaining code structure efficiently.
