@@ -1,0 +1,19 @@
+Access Modifiers:-
+
+    - The data or member functions we declared in a class have some sort of behavior in order to Access
+      them from out side of the class.
+    - Initially, there are three types of access specifiers are discussed.
+        -> Public 
+            - Every data and method is accessible from outside of the class and in other classes as well.
+        -> Private (default)
+            - The data and member functions are only accessible with in the class itself.
+        -> Protected
+            - Protected data and methods are accessible in the class which inherits the properties of its 
+              parent class.
+
+Getter and Setter Functions:-
+    -> Setter Functions:
+        The functions used to set the values of Private data members and to access their value outside the 
+        class.
+    -> Getter Functions:
+        Once the values are set using setter ftns, Getter functions used to get those values of Private data members outside the class.

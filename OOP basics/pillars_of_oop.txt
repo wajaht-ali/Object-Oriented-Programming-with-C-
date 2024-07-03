@@ -1,0 +1,9 @@
+Four pillars of oop:-
+    - There are four major oop concepts that are associated with the pillars of object-oriented programming.
+    - These pillars are:
+        => Encapsulation
+        => Abstraction
+        => Inheritance
+        => Polymorphism
+    
+    - We will describe and implement each of them one-by-one in next step.

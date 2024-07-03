@@ -1,0 +1,6 @@
+Encapsulation:-
+    => Encapsulation is the process of "wrapping" up the data members and methods into a single unit or entity.
+    
+Why Encapsulation:-
+    => We use encapsulation for the purpose of "Information hiding" or more specifically "Data hiding".
+    => Encapsulation also helps in enhancing the security of the sensitive data of the classes.
