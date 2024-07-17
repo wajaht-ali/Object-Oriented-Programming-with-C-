@@ -1,0 +1,9 @@
+Abstraction:-
+    The ability to hide all unnecessary details and showing only important data is called abstraction.
+    The best way of implementing abstraction is "Abstract" classes and access modifiers.
+
+    => Abstract classes:-
+        -> Only used to provide a base class to derive child classes.
+        -> Particularly use to define an interface for the derived classes.
+    => "Static Keyword":-
+        -> The variable with static keyword gets initialized and instanciated for only once in the whole life cycle of program.

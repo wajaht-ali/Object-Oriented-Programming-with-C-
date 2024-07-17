@@ -1,0 +1,13 @@
+Inheritance:-
+    When a child or (derived) class inheritance the properties of its parent or (base) class then this is known as the concept of Inheritance.
+
+Types of Inheritance:-
+    - There are three types of inheritance.
+     -> Single inheritance
+        = Parent to child
+     -> Multilevel inheritance
+        = Parent to Parent to Child
+     -> Multiple inheritance.
+        = From two parents to one child.
+    -> Hierarchial inheritance
+        = Two childs inherits from one Parent
